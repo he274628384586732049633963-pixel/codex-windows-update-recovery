@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Windows 更新恢復"
+  short_description: "檢查 Windows 套件更新卡點並驗證 Codex 新版安裝結果"
+  default_prompt: "使用 $codex-windows-update-recovery 檢查並處理 Codex 更新反覆下載或關閉的問題。"
